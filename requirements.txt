@@ -1,0 +1,5 @@
+pandas>=2.0
+streamlit>=1.30
+fastapi>=0.100
+uvicorn>=0.24
+openai>=1.0
