@@ -5,3 +5,4 @@ __pycache__/
 data/leads.json
 data/feedback.json
 data/weights.json
+test_results.json
